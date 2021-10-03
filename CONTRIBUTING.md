@@ -10,7 +10,7 @@
     For example, run this command inside your terminal:
 
     ```bash
-    git clone https://github.com/<your-github-username>/FRIDAY.git
+    git clone https://github.com/PCCoE-Hacktoberfest-21/Data-Structures-and-Algorithms
     ```
 
     **Replace \<your-github-username\>!**
@@ -19,7 +19,7 @@
 - Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/PCCoE-Hacktoberfest-21/FRIDAY.git
+    git remote add upstream https://github.com/PCCoE-Hacktoberfest-21/Data-Structures-and-Algorithms
     git fetch upstream
     git pull upstream master
     git push
